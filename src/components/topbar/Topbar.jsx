@@ -9,7 +9,7 @@ const Topbar = () => {
   return (
     <div className="topbarContainer">
       <div className="topbarLeft">
-        <span className="logo">Blog</span>
+        <span className="logo">MuslimSocial</span>
       </div>
       {/* *********** */}
       <div className="topbarCenter">
